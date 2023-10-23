@@ -12,14 +12,14 @@
 
 .app {
   width: 100%;
-  height: 100vh;
+  height: 150vh;
   background-position: center;
   background-size: cover;
 }
 
 .overlay {
   width: 100%;
-  height: 100vh;
+  height: 150vh;
   background-color: var(--background-overlay);
 }
 
@@ -47,6 +47,7 @@
   align-items: center;
   justify-content: space-between;
   background-color: var(--section-overlay);
+  padding: 1rem;
 }
 
 
